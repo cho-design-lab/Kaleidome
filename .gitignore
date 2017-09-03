@@ -133,3 +133,13 @@ Desktop.ini
 
 .mailmap
 /apps*/
+
+
+
+# added
+/bin/*
+!/bin/data/
+/bin/data/domemaster/*
+
+*.VC.db
+*.vcxproj.user
