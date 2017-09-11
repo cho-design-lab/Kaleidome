@@ -1,1 +1,2 @@
 ofxDomemaster
+ofxJSON

@@ -1,0 +1,15 @@
+{
+    "windowSize": [
+        1024,
+        1024
+    ],
+    "renderSize": [
+        4096,
+        4096
+    ],
+    "enableCamera": false,
+    "cameraDeviceId": 0,
+    "cameraResolution":[1920,1080],
+    "filePath":"checker.jpg",
+    "subdivide":3
+}
