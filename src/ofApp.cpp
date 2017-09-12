@@ -21,6 +21,7 @@ void ofApp::setup() {
 		ofSetLogLevel(OF_LOG_VERBOSE);
 		grabber.setVerbose(true);
 		grabber.listDevices();
+		grabber.setDeviceID(setting.camDeviceId);
 		grabber.initGrabber(setting.cameraWidth, setting.cameraHeight);
 	}
 	else {
